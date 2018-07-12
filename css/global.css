@@ -1,0 +1,10 @@
+ *{margin:0; padding:0; list-style-type: none; }
+    body{background:#e5e5e;}
+
+    ul.nav{}
+    ul.nav li{float: left; background: #0061a0; width: 120px; height: 35px; line-height: 35px; border-left: 1px solid #fff; text-align: center; color: #fff;}
+
+    ul.prog{display: none;}
+    ul.prog li{background: #008CBA; border-top: 1px solid #fff;}
+
+    #prog1:hover .prog{display: block;} 
