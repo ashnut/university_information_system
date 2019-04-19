@@ -1,4 +1,4 @@
-#University Information System
+# University Information System
 
 A web application designed for 
  1. Students where they can find details about their university, courses, professors.
